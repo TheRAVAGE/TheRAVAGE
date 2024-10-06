@@ -25,5 +25,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheRAVAGE&icon=7&color=4)](https://visitcount.itsvg.in)
-](https://www.linkedin.com/in/akhil-m-mathew-81944b23b/edit/forms/intro/new/)
+]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
