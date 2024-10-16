@@ -8,10 +8,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thetrueravage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-m-mathew-81944b23b) 
 
 # 🔗 Projects:
-## Web Development Projects:
+## 🌐 Web Development Projects:
 ### ✨ Capstone Project - 001 - Resume - (https://theravage.github.io/Capstone-Project-0001-Online_Resume/)
-### ✨ Capstone Project - 002 - Resume - (https://theravage.github.io/Capstone-Project-0002-Online-Resume/) :
-### [✨ Capstone Project - 003 - Blog Website - (https://capstone-project-0003-blog-website.onrender.com/)] :
+### ✨ Capstone Project - 002 - Resume - (https://theravage.github.io/Capstone-Project-0002-Online-Resume/) 
+### [✨ Capstone Project - 003 - Blog Website - (https://capstone-project-0003-blog-website.onrender.com/)]:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ### [✨ Capstone Project - 004 - Weather Lookup - (https://capstone-project-0004-weather-forcast.onrender.com/)]:
 
 # 💻 Tech Stack:
