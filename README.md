@@ -9,11 +9,11 @@
 
 # 🔗 Projects:
 ## 🌐 Web Development Projects:
-### ✨ Capstone Project - 001 - Resume - (https://theravage.github.io/Capstone-Project-0001-Online_Resume/)
+### ✨ [Capstone Project - 001 - Resume :](https://theravage.github.io/Capstone-Project-0001-Online_Resume/)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-### ✨ Capstone Project - 002 - Resume - (https://theravage.github.io/Capstone-Project-0002-Online-Resume/)
+### ✨ [Capstone Project - 002 - Resume :](https://theravage.github.io/Capstone-Project-0002-Online-Resume/)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
