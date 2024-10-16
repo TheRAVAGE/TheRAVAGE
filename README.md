@@ -9,9 +9,9 @@
 
 # 🔗 Projects:
 ## Web Development Projects:
-### [✨ Capstone Project - 001 - Resume - (https://theravage.github.io/Capstone-Project-0001-Online_Resume/)]:
-### [✨ Capstone Project - 002 - Resume - (https://theravage.github.io/Capstone-Project-0002-Online-Resume/)]:
-### [✨ Capstone Project - 003 - Blog Website - (https://capstone-project-0003-blog-website.onrender.com/)]:
+### ✨ Capstone Project - 001 - Resume - (https://theravage.github.io/Capstone-Project-0001-Online_Resume/)
+### ✨ Capstone Project - 002 - Resume - (https://theravage.github.io/Capstone-Project-0002-Online-Resume/) :
+### [✨ Capstone Project - 003 - Blog Website - (https://capstone-project-0003-blog-website.onrender.com/)] :
 ### [✨ Capstone Project - 004 - Weather Lookup - (https://capstone-project-0004-weather-forcast.onrender.com/)]:
 
 # 💻 Tech Stack:
