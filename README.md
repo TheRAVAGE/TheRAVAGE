@@ -119,6 +119,10 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+NOTE: This project uses dfx or Difinity so you might want to download that if you are trying to run the app.
+
+NOTE: Deploying on Internet Computer requires me to spend ICP Tokens to get computational cycles and would have to refill it everytime it runs out, Hence Im not deploying it on the ICP Blockchain yet.
+
 [GitHub Repo Link](https://github.com/TheRAVAGE/Project-002b-Keeper-App)
 
 
