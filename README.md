@@ -122,6 +122,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+NOTE: The provided link is just for the front-end and there is not data persistence. if you want to check out the entire website with data persistence, fork the project and start with dfx or Difinity's Internet Computer
+
 NOTE: This project uses dfx or Difinity so you might want to download that if you are trying to run the app.
 
 NOTE: Deploying on Internet Computer requires me to spend ICP Tokens to get computational cycles and would have to refill it every time it runs out, Hence I'm not deploying it on the ICP Blockchain. Although all the canisters required, are built.
