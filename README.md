@@ -125,6 +125,19 @@ NOTE: Deploying on Internet Computer requires me to spend ICP Tokens to get comp
 
 [GitHub Repo Link](https://github.com/TheRAVAGE/Project-002b-Keeper-App)
 
+### 🌟 Project - 003 - Crypto Token App (Internet Computer Blockchain) : 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+
+NOTE: This project uses dfx or Difinity so you might want to download that if you are trying to run the app.
+
+NOTE: Deploying on Internet Computer requires me to spend ICP Tokens to get computational cycles and would have to refill it every time it runs out, Hence I'm not deploying it on the ICP Blockchain. Although all the canisters required, are built.
+
+[GitHub Repo Link](https://github.com/TheRAVAGE/Project-0003-Crypto-Token-App)
+
 
 
 # 💻 Tech Stack:
