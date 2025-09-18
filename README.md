@@ -10,6 +10,7 @@
 
 # 🔗 Projects:
 ## 🎮 Game Development Projects:
+### 🎶 [Connected Games Project - 001 - Dice And Domination :]([https://github.com/TheRAVAGE/DiceAndDomination])
 ## 🌐 Web Development Projects:
 
 ### ✨ [Capstone Project - 001 - Resume :](https://theravage.github.io/Capstone-Project-0001-Online_Resume/)
