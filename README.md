@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-m-mathew-81944b23b) 
 
 # 🔗 Projects:
+## 🎮 Game Development Projects:
 ## 🌐 Web Development Projects:
 
 ### ✨ [Capstone Project - 001 - Resume :](https://theravage.github.io/Capstone-Project-0001-Online_Resume/)
