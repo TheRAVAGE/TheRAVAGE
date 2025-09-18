@@ -1,7 +1,7 @@
 ## 👋🏻 Hi Im Akhil M Mathew. Welcome to my page 👋🏻
 
 # 💫 About Me:
-🔭 I’m currently working on building web applications, using modern web technologies.<br>👯 I’m looking to collaborate on web development projects or innovative software applications.<br>🤝 I’m looking for help with expanding my knowledge in ethical hacking, artificial intelligence, and advanced web development techniques.<br>🌱 I’m currently learning The Complete 2024 Web Development Bootcamp by Dr. Angela Yu.<br>💬 Ask me about web development with Node.js, ReactJS, and creating fully responsive websites.<br>⚡ Fun fact: I’m doing several intensive boot camps and courses in web development, 3D modeling, AI, and even ethical hacking!
+🔭 I’m currently working on building Video Games applications, using modern technologies.<br>👯 I’m looking for placements for my placement year at Kingston University, London .<br>🤝 I’m looking for help with expanding my knowledge in Game Development, artificial intelligence, and advanced web development techniques.<br>🌱 I’m currently developing an AI Boss fight for my final year project.<br>💬 Ask me about game development and web development with Node.js, ReactJS, and creating fully responsive websites.<br>⚡ Fun fact: I’m doing several intensive boot camps and courses in game dev, web development, 3D modeling, AI, and even ethical hacking!
 
 
 ## 🌐 Socials:
