@@ -13,7 +13,7 @@
 ### 🎶 [Connected Games Project - 001 - Dice And Domination :](https://github.com/TheRAVAGE/DiceAndDomination)
 Dice & Domination is a party board game where players compete against each other to capture the most tiles.  If a player lands on a captured tile, a battle will occur. </br>
 A free-for-all Battle Arena, where you form strategies with neighbouring factions to form alliances. Only at the end will they know if they have been deceived or not...</br>
-As a Gameplay programmer, I worked on integrating the gameplay mechanics for the battle mode that is triggered when players land on the tiles that are owned by other players. A crucial aspect of the game, which makes it more engaging and fun for the players, and the one that integrates skills to win the round. I Also worked on integrating the remaining players to be able to interact with the battle happening, hence removing the downtime for the other player outside of the battle, making the game more fun and engaging.
+
 [Itch.io Dev_Log Link](https://theravage.itch.io/connected-games-project-001)
 [GitHub Repo Link](https://github.com/TheRAVAGE/DiceAndDomination)
 ## 🌐 Web Development Projects:
