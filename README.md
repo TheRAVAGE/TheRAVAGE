@@ -14,7 +14,7 @@
 Dice & Domination is a party board game where players compete against each other to capture the most tiles.  If a player lands on a captured tile, a battle will occur. </br>
 A free-for-all Battle Arena, where you form strategies with neighbouring factions to form alliances. Only at the end will they know if they have been deceived or not...</br>
 
-[Itch.io Dev_Log Link](https://theravage.itch.io/connected-games-project-001)
+[Itch.io Dev_Log Link](https://theravage.itch.io/connected-games-project-001) </br>
 [GitHub Repo Link](https://github.com/TheRAVAGE/DiceAndDomination)
 ## 🌐 Web Development Projects:
 
